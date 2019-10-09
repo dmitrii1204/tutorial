@@ -17,7 +17,7 @@ int main()
 	delete[] ad;
 
 
-	Okthen a(3, 4);
+	Okthen a(5, 4);
 	a.out();
 	return 0;
 }
